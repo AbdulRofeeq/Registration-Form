@@ -1,0 +1,49 @@
+body{
+    background-color: rgb(7, 3, 70);  
+}
+h1{
+    text-align: center;
+    color: white;
+    margin-top: 5%;
+}
+p{
+    text-align: center;
+    color: white;
+}
+label{
+    color: white;  
+}
+.info{
+    width: 500px;
+    display: block;
+    background-color: rgb(96, 95, 99);
+    color: white;
+    margin-bottom: 3%;
+}
+form{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 3%;
+}
+fieldset{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-color: gray;
+}
+input{
+    margin-bottom: 4%;
+}
+.pic{
+    border-top: 2%;
+    border-left: 2%;
+}
+   .bio{
+    background-color:  rgb(96, 95, 99);
+    color: white;
+    font-size: large;
+}
+.submit{
+    text-align: center;
+    color:  rgb(96, 95, 99);
+}
